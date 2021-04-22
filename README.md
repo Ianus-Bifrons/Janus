@@ -1,6 +1,6 @@
-# Janus-aka-Komnis
+# Janus
 
-I Am Janus.
+I Am Janus (aka Komnis).
 
 I'm a wannabe Information Security Engineer and a CS Undergraduate at the [American College of Thessaloniki](https://www.act.edu). I try to work on many different aspects of security and partake in CTF's. I also like programming with some projects in development.
 
